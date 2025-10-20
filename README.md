@@ -4,6 +4,7 @@
 Expert in designing and developing **end-to-end computational pipelines** for multi-omics data, advanced statistical analysis, and large-scale genomic research.
 
 📫 Contact: [Email](mailto:fadi.slimi@insat.ucar.tn) | [LinkedIn](https://www.linkedin.com/in/fadi-slimi)
+https://github.com/Fadis04/Fadis04/blob/179166bc8a038c523e2c7563055e0ee6b3e27634/Fadi_Slimi_Email_Signature%20.png
 
 ---
 
