@@ -23,14 +23,14 @@ My research and projects cover:
 
 ## 🔧 Skills & Tools
 
-**Programming & Scripting:** Python, R, Bash, Shell, Perl  
-**Bioinformatics & Omics Tools:**  
+- **Programming & Scripting:** Python, R, Bash, Shell, Perl  
+- **Bioinformatics & Omics Tools:**  
 - **Transcriptomics & Splicing:** DEXSeq, DESeq2, LeafCutter, TAMA, StringTie2, Kallisto, Salmon, STAR, HISAT2, Ballgown  
 - **Genomics & Variant Calling:** Clair3, GATK, Minimap2, Sambamba, Sniffles2  
 - **Metagenomics:** Kraken2, MetaPhlAn, HUMAnN3, QIIME2  
 - **Machine Learning & AI:** scikit-learn, TensorFlow, PyTorch, XGBoost  
-**Statistical & Visualization:** R (ggplot2, PCA, clustering), Python (pandas, seaborn, matplotlib)  
-**Other Tools & Platforms:** Git/GitHub, Conda, Docker, Snakemake, HPC cluster computing  
+- **Statistical & Visualization:** R (ggplot2, PCA, clustering), Python (pandas, seaborn, matplotlib)  
+- **Other Tools & Platforms:** Git/GitHub, Conda, Docker, Snakemake, HPC cluster computing  
 
 ---
 
